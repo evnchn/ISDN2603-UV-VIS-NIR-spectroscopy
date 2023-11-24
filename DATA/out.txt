@@ -1,0 +1,20 @@
+Acrylic.Sample.csv
+Ag-coatedNylon.Sample.csv
+ArtificialLeather.Sample.csv
+blank.Sample.csv
+Foam.Sample.csv
+memo paper.Sample.csv
+out.txt
+PLA.Sample.csv
+Raise3DPLA.Sample.csv
+Sample4841.Sample.csv
+Sample4842.Sample.csv
+Sample4843.Sample.csv
+Sample4846.Sample.csv
+sandpaper.Sample.csv
+ShoeMesh.Sample.csv
+SiliconeRubber.Sample.csv
+TPUretryside.Sample.csv
+TPUs.Sample.csv
+UltimakerPLA.Sample.csv
+white.Sample.csv
