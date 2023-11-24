@@ -17,3 +17,8 @@ _First copy Acrylic.Sample.csv from DATA folder to same directory of reader.py_
 
 ![image](https://github.com/evnchn/ISDN2603-UV-VIS-NIR-spectroscopy/assets/37951241/e705abeb-4685-46f5-bc9d-1e39b207eb77)
 
+## Note on visible spectrum visualization
+
+`ciexyz.py` and `colormodels.py` based on [ColorPy](http://markkness.net/colorpy/ColorPy.html), quickly adapted for Python 3 syntax. 
+
+**Other functions in these two files may or may not work!**
